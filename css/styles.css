@@ -1,9 +1,4 @@
 
-body{
- color: white;
-
-}
-
 #title {
     background-color: #ff4c68;
 }
@@ -17,4 +12,9 @@ h1 {
     font-weight: 900;
     font-size: 3rem;
     line-height: 1.5;
+    color: white;
+}
+
+.iphone6{
+    transform: rotate(20deg);
 }
