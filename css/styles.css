@@ -151,3 +151,29 @@ p{
     }
 
 }
+
+
+/* cta Section */
+
+#cta{
+    background-color: #ff4c68;
+    text-align: center;
+    padding: 3% 0 2%;
+}
+
+.cta-h1{
+    font-family: 'Montserrat', sans-serif;
+    font-weight: 900;
+    color: #fff;
+    padding: 0 20%;
+}
+
+
+/* Foot Section */
+
+#footer{
+    text-align: center;
+}
+
+
+
